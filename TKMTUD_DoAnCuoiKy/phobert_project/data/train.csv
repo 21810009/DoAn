@@ -1,0 +1,441 @@
+text,label
+"Món ăn này rất ngon, tôi sẽ quay lại.",1
+"Phục vụ quá tệ, không bao giờ quay lại.",0
+"Sản phẩm dùng tốt, đáng tiền, tôi rất hài lòng.",1
+"Tôi không thích bộ phim này, cốt truyện rời rạc.",0
+"Giao hàng nhanh thật, sản phẩm đúng như mô tả.",1
+"Một trải nghiệm tồi tệ, tôi đã phải đợi rất lâu.",0
+"Nhân viên thân thiện và nhiệt tình.",1
+"Giá cả hơi đắt so với chất lượng.",0
+"Chất lượng phòng rất tốt, sạch sẽ và tiện nghi.",1
+"Tiếng ồn từ bên ngoài làm tôi khó ngủ.",0
+"Cà phê ở đây rất đậm đà và thơm ngon.",1
+"Hương vị không đặc sắc, khá bình thường.",0
+"Tôi rất ấn tượng với cách họ giải quyết vấn đề.",1
+"Phản hồi chậm trễ, không chuyên nghiệp.",0
+"Cảnh đẹp tuyệt vời, không khí trong lành.",1
+"Thời tiết hôm nay quá nóng bức.",0
+"Đội ngũ hỗ trợ rất chuyên nghiệp.",1
+"Ứng dụng thường xuyên bị lỗi.",0
+"Cuốn sách này thực sự rất ý nghĩa.",1
+"Nội dung quá dài dòng và khó hiểu.",0
+"Chuyến đi rất thú vị, nhiều kỷ niệm đẹp.",1
+"Lịch trình dày đặc, không có thời gian nghỉ ngơi.",0
+"Âm nhạc rất hay, tôi rất thích.",1
+"Chất lượng âm thanh không tốt.",0
+"Thiết kế sản phẩm rất hiện đại và tinh tế.",1
+"Màu sắc không như mong đợi.",0
+"Dịch vụ spa thật thư giãn, rất hài lòng.",1
+"Thức ăn nguội khi được phục vụ.",0
+"Thầy cô rất tận tâm giảng dạy.",1
+"Bài kiểm tra quá khó.",0
+"món ăn ngon",1
+"đồ ăn ngon",1
+"rất ngon",1
+"món ăn dở",0
+"đồ ăn tệ",0
+"không ngon",0
+"dịch vụ tốt",1
+"dịch vụ kém",0
+"rất hài lòng",1
+"thất vọng",0
+"Hàng đúng mô tả",1
+"Shop lừa đảo",0
+"Shop tư vấn nhiệt tình",1
+"Treo đầu dê bán thịt chó",0
+"Đóng gói kỹ",1
+"Chất lượng quá kém",0
+"Giao siêu nhanh",1
+"Giao sai mẫu",0
+"Chất lượng vượt giá tiền",1
+"Thiếu hàng",0
+"Sản phẩm xịn",1
+"Đóng gói sơ sài",0
+"Rất đáng mua",1
+"Hộp nát bét",0
+"Vải đẹp",1
+"Chờ cả tháng",0
+"Thiết kế tinh tế",1
+"Vải mỏng dính",0
+"Sẽ mua lại",1
+"Đường may lỗi",0
+"Check code ra hàng real",1
+"Mùi hôi khó chịu",0
+"Mẫu mã đẹp",1
+"Không giống hình",0
+"Mặc lên vừa vặn",1
+"Trả hàng",0
+"Hàng auth 100%",1
+"Sp bị trầy xước",0
+"Giá hời",1
+"Hỗ trợ khách hàng tệ",0
+"Được bọc 3 lớp",1
+"Nhắn tin không trả lời",0
+"Sp y hình",1
+"Chất lượng không tương xứng",0
+"Cho shop 5 sao",1
+"Size bị sai",0
+"Ưng ý lắm",1
+"Đừng nên mua",0
+"Quá hời",1
+"Hàng giả",0
+"Đồ ăn nêm nếm vừa miệng",1
+"Đồ ăn nguội ngắt",0
+"Không gian quán ấm cúng",1
+"Phục vụ lề mề",0
+"Nhân viên nhanh nhẹn",1
+"Quán bẩn",0
+"Trà sữa ngon",1
+"Nhân viên thái độ lồi lõm",0
+"Phục vụ chu đáo",1
+"Giá cắt cổ",0
+"Sạch sẽ",1
+"Đồ ăn mặn chát",0
+"Giá cả phải chăng",1
+"Chờ món mòn mỏi",0
+"Quán này là số 1",1
+"Không gian ồn ào",0
+"Hương vị đặc trưng",1
+"Hết món mà không báo",0
+"Sẽ rủ bạn bè đến",1
+"Đuổi khách",0
+"Trang trí đẹp",1
+"Bát đũa bẩn",0
+"Đáng đồng tiền bát gạo",1
+"Tính tiền sai",0
+"Bảo vệ dắt xe cho khách",1
+"Gửi xe mất tiền",0
+"Menu đa dạng",1
+"Không có gì đặc sắc",0
+"Đồ ăn lên nhanh",1
+"Vị nhạt nhẽo",0
+"Quá xuất sắc",1
+"Chỉ được cái mã",0
+"Cà phê đậm đà",1
+"Quán vắng mà làm lâu",0
+"Bánh ngọt tan trong miệng",1
+"Tệ hơn lần trước",0
+"Không chê vào đâu được",1
+"Sẽ không quay lại",0
+"Ăn no căng",1
+"Thất vọng toàn tập",0
+"View biển cực đẹp",1
+"Phòng hôi mùi ẩm mốc",0
+"Phòng ốc sạch sẽ",1
+"View bị che mất",0
+"Lễ tân thân thiện",1
+"Nhân viên khó chịu",0
+"Resort yên tĩnh",1
+"Cách âm quá tệ",0
+"Bữa sáng ngon",1
+"Nước nóng lúc có lúc không",0
+"Hồ bơi sạch",1
+"Khăn tắm bẩn",0
+"Vị trí trung tâm",1
+"Vị trí xa xôi",0
+"Dịch vụ phòng tốt",1
+"Quảng cáo sai sự thật",0
+"Nhiều tiện ích",1
+"Ăn sáng nghèo nàn",0
+"Kỳ nghỉ tuyệt vời",1
+"Hồ bơi toàn lá",0
+"Tour guide am hiểu",1
+"Tour chán ngắt",0
+"Xe đưa đón đúng giờ",1
+"Tài xế lái ẩu",0
+"Thoải mái như ở nhà",1
+"Phụ thu vô lý",0
+"Chăn ga thơm",1
+"Giá phòng quá đắt",0
+"Mọi thứ đều hoàn hảo",1
+"Thang máy chậm",0
+"Rất đáng để trải nghiệm",1
+"Tiện nghi cũ kỹ",0
+"Giá tốt",1
+"Mất đồ",0
+"Tiện nghi đầy đủ",1
+"Dọn phòng không sạch",0
+"Không khí trong lành",1
+"Bị làm phiền",0
+"Thư giãn",1
+"Trải nghiệm kinh khủng",0
+"App chạy mượt",1
+"App toàn lỗi vặt",0
+"Giao diện thân thiện",1
+"Hay bị văng",0
+"Dễ sử dụng",1
+"Tốn pin kinh khủng",0
+"Nhiều tính năng hay",1
+"Khó dùng",0
+"Pin trâu",1
+"Giao diện xấu",0
+"Thiết kế đẹp",1
+"Thiếu tính năng cơ bản",0
+"Tốc độ xử lý nhanh",1
+"Máy nóng ran",0
+"Chơi game không giật lag",1
+"Chạy chậm như rùa",0
+"Update tốt",1
+"Cập nhật xong là lỗi",0
+"Hỗ trợ kỹ thuật nhanh",1
+"Không tương thích",0
+"Hoạt động ổn định",1
+"Đăng nhập không được",0
+"Rất hữu ích",1
+"Quảng cáo che hết màn hình",0
+"Camera nét căng",1
+"Bảo mật kém",0
+"Âm thanh sống động",1
+"Phản hồi chậm",0
+"Màn hình hiển thị đẹp",1
+"Camera mờ",0
+"Đáng tiền",1
+"Loa rè",0
+"Cài đặt dễ dàng",1
+"Màn hình ám vàng",0
+"Không có quảng cáo",1
+"Treo máy liên tục",0
+"Bảo mật tốt",1
+"Kết nối không ổn định",0
+"Đồng bộ nhanh",1
+"Vô dụng",0
+"Cốt truyện lôi cuốn",1
+"Phim dở tệ",0
+"Diễn xuất đỉnh cao",1
+"Cốt truyện nhảm nhí",0
+"Kỹ xảo mãn nhãn",1
+"Diễn viên đơ",0
+"Một bộ phim ý nghĩa",1
+"Kỹ xảo 3 xu",0
+"Sách rất hay",1
+"Phí tiền vé",0
+"Nội dung truyền cảm hứng",1
+"Sách nhàm chán",0
+"Bài giảng dễ hiểu",1
+"Nội dung sáo rỗng",0
+"Giáo viên tận tâm",1
+"Giảng viên nói khó ngủ",0
+"Rất đáng đọc",1
+"Toàn lý thuyết suông",0
+"Phim hài cười bể bụng",1
+"Kết thúc lãng xẹt",0
+"Âm nhạc tuyệt vời",1
+"Tình tiết phi lý",0
+"Học được nhiều kiến thức",1
+"Mất thời gian đọc",0
+"Nội dung sâu sắc",1
+"Bản dịch tệ",0
+"Hình ảnh đẹp",1
+"Chất lượng video kém",0
+"Kết thúc bất ngờ",1
+"Quá dài dòng",0
+"Tác giả viết chắc tay",1
+"Không có gì mới",0
+"Giọng đọc truyền cảm",1
+"Nhân vật hời hợt",0
+"Khóa học chất lượng",1
+"Buồn ngủ",0
+"Rất thực tế",1
+"Rời rạc",0
+"Nên xem",1
+"Cực kỳ thất vọng",0
+"hàng đẹp lắm shop ơi",1
+"chất vải xịn",1
+"đóng gói siêu cẩn thận",1
+"giao hàng nhanh hơn dự kiến",1
+"shop tư vấn có tâm",1
+"sản phẩm y hệt mô tả",1
+"giá rẻ mà chất lượng",1
+"sẽ ủng hộ shop dài dài",1
+"cho shop 10 điểm",1
+"ưng cái bụng ghê",1
+"mặc vào ai cũng khen",1
+"quá là xịn sò",1
+"không có gì để chê",1
+"rất đáng tiền",1
+"bao bì đẹp",1
+"hàng chuẩn auth",1
+"xài tốt lắm",1
+"sp tốt",1
+"vừa in",1
+"màu xinh",1
+"quán này ngon bá cháy",1
+"phục vụ nhanh nhẹn, dễ thương",1
+"không gian thoáng mát",1
+"đồ ăn nêm nếm đậm đà",1
+"sẽ ghé lại lần nữa",1
+"giá hợp lý",1
+"trang trí bắt mắt",1
+"vị trí dễ tìm",1
+"đồ ăn tươi",1
+"trà sữa trân châu ngon",1
+"ăn no vỡ bụng",1
+"hợp khẩu vị",1
+"bánh mì nóng giòn",1
+"phở bò tái chín xuất sắc",1
+"nhất định phải thử",1
+"vệ sinh an toàn",1
+"menu phong phú",1
+"chè ngọt thanh",1
+"lẩu riêu cua bắp bò đầy đặn",1
+"rất hài lòng về dịch vụ",1
+"khách sạn sạch thơm",1
+"view phòng xịn",1
+"nhân viên thân thiện",1
+"vị trí ngay trung tâm",1
+"bữa sáng buffet ngon",1
+"giá phòng tốt",1
+"dịch vụ phòng 24/7",1
+"hồ bơi đẹp",1
+"tour guide nói chuyện hay",1
+"trải nghiệm đáng nhớ",1
+"resort yên tĩnh",1
+"rất thư giãn",1
+"mọi thứ đều hoàn hảo",1
+"tiện nghi đầy đủ",1
+"chăn ga gối nệm êm ái",1
+"xe đưa đón đúng giờ",1
+"thủ tục checkin nhanh",1
+"phòng rộng rãi",1
+"không khí trong lành",1
+"rất đáng để quay lại",1
+"app dùng mượt",1
+"phim hay, ý nghĩa",1
+"sách lôi cuốn",1
+"pin trâu",1
+"giao diện dễ dùng",1
+"game đồ họa đẹp",1
+"tốc độ load nhanh",1
+"âm thanh sống động",1
+"cốt truyện bất ngờ",1
+"màn hình nét",1
+"camera chụp đẹp",1
+"tính năng hữu ích",1
+"diễn viên diễn hay",1
+"bài hát này gây nghiện",1
+"update sửa lỗi tốt",1
+"chơi game ko lag",1
+"sách mở mang kiến thức",1
+"bộ phim cảm động",1
+"rất dễ cài đặt",1
+"hoạt động ổn định",1
+"nhân viên ngân hàng hỗ trợ tốt",1
+"bác sĩ tận tình",1
+"khoá học rất bổ ích",1
+"ok lắm",1
+"tuyệt vời",1
+"quá đỉnh",1
+"10/10",1
+"tốt",1
+"hài lòng",1
+"cảm ơn shop",1
+"quá đã",1
+"như mong đợi",1
+"không chê vào đâu được",1
+"xử lý khiếu nại nhanh",1
+"tuyệt cú mèo",1
+"mọi thứ đều ổn",1
+"dịch vụ 5 sao",1
+"trên cả mong đợi",1
+"chuyên nghiệp",1
+"quá ưng",1
+"giao hàng quá chậm",0
+"shop seen không rep",0
+"hàng không giống ảnh",0
+"giao sai màu",0
+"sản phẩm bị vỡ",0
+"đóng gói quá ẩu",0
+"chất vải nilon nóng",0
+"mặc vào bị ngứa",0
+"lừa đảo",0
+"sản phẩm có mùi lạ",0
+"đường may chỉ thừa",0
+"mới dùng đã hỏng",0
+"bị thiếu phụ kiện",0
+"hàng fake",0
+"quá thất vọng",0
+"size quá bé",0
+"màu bên ngoài tối hơn hình",0
+"hộp rách nát",0
+"shop làm ăn chán đời",0
+"sẽ không bao giờ mua lại",0
+"đồ ăn quá mặn",0
+"phục vụ thái độ",0
+"quán chật chội, bí bách",0
+"chờ 30 phút chưa có đồ",0
+"bát đũa nhìn bẩn",0
+"đồ ăn nguội",0
+"giá đắt mà đồ ăn ít",0
+"trà sữa nhạt như nước ốc",0
+"trong rau có sâu",0
+"nhân viên lơ là",0
+"không có chỗ để xe",0
+"quán ồn ào",0
+"vị lờ lợ",0
+"đồ ăn bị cháy khét",0
+"hết món mà không báo",0
+"không hợp khẩu vị",0
+"chỉ được cái quảng cáo",0
+"gọi mãi không thấy",0
+"một trải nghiệm tệ",0
+"ăn xong bị đau bụng",0
+"phòng hôi mùi mốc",0
+"khăn tắm ố vàng",0
+"cách âm tệ, không ngủ được",0
+"nhân viên mặt nặng như chì",0
+"xa trung tâm",0
+"vòi sen hỏng",0
+"nước nóng không có",0
+"khách sạn bẩn",0
+"phụ thu vô lý",0
+"ăn sáng lèo tèo",0
+"ảnh trên mạng lừa tình",0
+"thang máy hỏng",0
+"điều hoà không mát",0
+"wifi siêu yếu",0
+"đêm hôm ồn ào",0
+"phòng quá nhỏ",0
+"dịch vụ kém",0
+"chăn gối có mùi",0
+"tour chán",0
+"tài xế cọc cằn",0
+"app giật lag",0
+"phim dở, phí tiền vé",0
+"sách viết lan man",0
+"pin tụt như tụt quần",0
+"giao diện khó dùng",0
+"game toàn lỗi",0
+"load mãi không xong",0
+"âm thanh bị rè",0
+"cốt truyện nhảm",0
+"màn hình bị ám màu",0
+"camera mờ tịt",0
+"tính năng vô dụng",0
+"diễn viên đơ",0
+"bài hát dở",0
+"update xong là hỏng",0
+"chơi game nóng máy",0
+"sách không có gì mới",0
+"phim buồn ngủ",0
+"cài đặt phức tạp",0
+"quá nhiều quảng cáo",0
+"nhân viên ngân hàng hách dịch",0
+"bác sĩ khám qua loa",0
+"khoá học chán phèo",0
+"quá tệ",0
+"dở",0
+"chán",0
+"1/10",0
+"không ổn",0
+"rất thất vọng",0
+"mất thời gian",0
+"cực kỳ bực mình",0
+"không như mong đợi",0
+"không bao giờ",0
+"xử lý khiếu nại chậm",0
+"tệ hại",0
+"cẩu thả",0
+"làm ăn thiếu chuyên nghiệp",0
+"bực",0
+"chẳng ra gì",0
+"phí tiền",0
